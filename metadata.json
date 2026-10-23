@@ -1,0 +1,10 @@
+{
+  "name": "Zubair AI",
+  "description": "Zubair AI by Zubair WebsiteWala — Ask Anything. Create Anything. Learn Without Limits. Intelligent multimodal AI assistant with chat, image generation, vision, and voice.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
